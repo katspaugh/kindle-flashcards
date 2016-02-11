@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cat extract.sql | sqlite3 /Volumes/Kindle/system/vocabulary/vocab.db -separator $'\t' > lookups.txt
+node translate.js lookups.txt > flashcards.json
+node print.js > flashcards.txt
