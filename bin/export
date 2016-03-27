@@ -1,5 +1,20 @@
 #!/bin/bash
 
-cat extract.sql | sqlite3 /Volumes/Kindle/system/vocabulary/vocab.db -separator $'\t' > lookups.txt
-node translate.js lookups.txt > flashcards.json
-node print.js > flashcards.txt
+DB='/Volumes/Kindle/system/vocabulary/vocab.db'
+OUT='output'
+
+# Iterate over all books
+for title in $(cat titles.sql | sqlite3 $DB -separator $'\t'); do
+    # Extract the look-ups
+    FILE="$OUT/$title.txt"
+    cat extract.sql | sed "s/#TITLE#/$title/g" | sqlite3 $DB -separator $'\t' > "$FILE"
+
+    WORDS_NUM=$(cat $FILE | wc -l)
+    if [ $WORDS_NUM == 0 ]; then
+        rm "$FILE";
+    else
+        echo "Extracted $WORDS_NUM words from $title."
+
+        node translate.js "$FILE" > "$OUT/cards/$title.txt"
+    fi
+done

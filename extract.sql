@@ -1,7 +1,8 @@
-select
+SELECT
         words.stem, lookups.usage
-        from lookups
-        left outer join book_info
-        on lookups.book_key=book_info.id
-        left outer join words
-        on lookups.word_key=words.id;
+        FROM lookups
+        LEFT OUTER JOIN book_info
+        ON lookups.book_key=book_info.id
+        LEFT OUTER JOIN words
+        ON lookups.word_key=words.id
+	WHERE title = '#TITLE#';
