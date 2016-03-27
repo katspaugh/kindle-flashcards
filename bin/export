@@ -1,10 +1,18 @@
 #!/bin/bash
 
+IFS=$'\n'
 DB='/Volumes/Kindle/system/vocabulary/vocab.db'
 OUT='output'
 
+# Create the output directory
+if [ !-d "$OUT" ]; then
+    mkdir "$OUT";
+fi
+
 # Iterate over all books
 for title in $(cat titles.sql | sqlite3 $DB -separator $'\t'); do
+    echo "Extracting words from $title..."
+
     # Extract the look-ups
     FILE="$OUT/$title.txt"
     cat extract.sql | sed "s/#TITLE#/$title/g" | sqlite3 $DB -separator $'\t' > "$FILE"
@@ -14,7 +22,5 @@ for title in $(cat titles.sql | sqlite3 $DB -separator $'\t'); do
         rm "$FILE";
     else
         echo "Extracted $WORDS_NUM words from $title."
-
-        node translate.js "$FILE" > "$OUT/cards/$title.txt"
     fi
 done
