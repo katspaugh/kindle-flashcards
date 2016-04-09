@@ -5,9 +5,7 @@ DB='/Volumes/Kindle/system/vocabulary/vocab.db'
 OUT='output'
 
 # Create the output directory
-if [ !-d "$OUT" ]; then
-    mkdir "$OUT";
-fi
+mkdir -p "$OUT"
 
 # Iterate over all books
 for title in $(cat titles.sql | sqlite3 $DB -separator $'\t'); do

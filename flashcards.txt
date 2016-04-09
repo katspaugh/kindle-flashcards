@@ -1,0 +1,316 @@
+niche	niche	Es fiel ihm schwer, Ron nicht zu beneiden, wenn er an die Dursleys dachte und daran, wie sie ihn wohl willkommen heißen würden, wenn er das nächste Mal im Ligusterweg auftauchte. 
+beneiden	envy	Es fiel ihm schwer, Ron nicht zu beneiden, wenn er an die Dursleys dachte und daran, wie sie ihn wohl willkommen heißen würden, wenn er das nächste Mal im Ligusterweg auftauchte. 
+Sonderausstattung	isolate	Er hatte natürlich nicht mit Mr Weasleys Sonderausstattung gerechnet. 
+Scheibe	disc	Als Harry, Ron, Fred, George und Percy endlich bequem auf der Rückbank Platz genommen hatten, spähte Mrs Weasley durch die Scheibe ins Wageninnere: »Die Muggel können doch mehr, als wir ihnen zutrauen, nicht wahr? 
+Federkiel	quill	Schon beim ersten Hahnenschrei wachten sie auf, doch merkwürdigerweise hatten sie alle noch eine ganze Menge zu erledigen: Mrs Weasley hetzte schlecht gelaunt herum und suchte Sockenpaare und Federkiele zusammen. 
+zutrauen	(to) confidence	Als Harry, Ron, Fred, George und Percy endlich bequem auf der Rückbank Platz genommen hatten, spähte Mrs Weasley durch die Scheibe ins Wageninnere: »Die Muggel können doch mehr, als wir ihnen zutrauen, nicht wahr? 
+anhalten	(to) urge	Er hatte kaum Zeit, sich zu fragen, wann er es wieder sehen würde, als sie auch schon anhielten: George hatte seine Kiste mit Filibuster-Feuerwerk vergessen. 
+Tagebuch	diary	Und sie waren kurz vor der Autobahn, als Ginny schreiend verkündete, sie habe ihr Tagebuch vergessen. 
+Gemüt	nature	Als sie endlich wieder in den Wagen stieg, waren sie schon sehr spät dran und die Gemüter waren gereizt. 
+gereizt	irritably	Als sie endlich wieder in den Wagen stieg, waren sie schon sehr spät dran und die Gemüter waren gereizt. 
+Weh	blow	Weh tat es nicht, aber sie mußten aufpassen, daß kein Muggel sie verschwinden sah. 
+vergewissern	make sure	Harry vergewisserte sich, daß Hedwigs Käfig verschlossen und der Koffer sicher festgezurrt war, und drehte seinen Gepäckwagen zur Absperrung hin. 
+Absperrung	sealing off	Harry vergewisserte sich, daß Hedwigs Käfig verschlossen und der Koffer sicher festgezurrt war, und drehte seinen Gepäckwagen zur Absperrung hin. 
+purzeln	tumble	Beide Karren knallten gegen die Absperrung und prallten zurück; mit lautem Krachen fiel Rons Koffer herunter, Harry verlor den Halt, der Käfig mit Hedwig purzelte auf den blank gewienerten Boden und empört kreischend schlitterte sie davon; die Leute um sie her starrten sie an und ein Wachmann in der Nähe rief. 
+stürzen	fall	»Hatten die Karre nicht mehr im Griff«, keuchte Harry und richtete sich auf, die Hände an die Rippen gepreßt; Ron stürzte los, um Hedwig zu holen, die ein solches Theater veranstaltete, daß einige Umstehende von Tierquälerei zu munkeln begannen. 
+Tierquälerei	cruelty to animals	»Hatten die Karre nicht mehr im Griff«, keuchte Harry und richtete sich auf, die Hände an die Rippen gepreßt; Ron stürzte los, um Hedwig zu holen, die ein solches Theater veranstaltete, daß einige Umstehende von Tierquälerei zu munkeln begannen. 
+flau	slack	»Wir verpassen noch den Zug«, flüsterte Ron, »ich weiß nicht, warum das Tor sich verschlossen hat «– Harry sah mit einem flauen Gefühl in der Magengegend zu der riesigen Uhr hoch. 
+hölzern	wooden	Von Harry kam ein hölzernes Lachen. 
+Klemme	clamp	»Wir können mit dem Wagen nach Hogwarts fliegen« »Aber ich dachte «– »Wir stecken in der Klemme, oder? 
+Beschränkung	limitation	Und selbst minderjährige Zauberer dürfen in einem echten Notfall zaubern, Abschnitt neunzehn oder so des Erlasses zur Beschränkung des Weißichnichtwas«– Harrys Panik verwandelte sich jäh in Begeisterung. 
+lebhaft	lively	Dann hörten sie ein lebhaftes Knattern und der Wagen, Harry und Ron tauchten wieder auf. 
+knattern	rattle	Dann hörten sie ein lebhaftes Knattern und der Wagen, Harry und Ron tauchten wieder auf. 
+Handschuhfach	glove compartment	Das ist die einzig wahre Art zu reisen, dachte Harry: vorbei an schneeigen Wolkenwirbeln und -türmchen, in einem von heißem, hellem Sonnenlicht durchfluteten Wagen, mit einer großen Packung Sahnebonbons im Handschuhfach und der Aussicht auf die neidischen Gesichter von Fred und George, wenn sie vor aller Augen sanft auf dem üppigen Rasen vor Schloß Hogwarts landen würden. 
+anmutig	graceful	London lag nun weit hinter ihnen, statt dessen sahen sie anmutige grüne Felder, die allmählich weitläufigen, purpurn schimmernden Mooren wichen, Weilern mit kleinen Spielzeugkirchen und einer großen Stadt, in der es von Autos nur so wimmelte, die an bunte Ameisen erinnerten. 
+Weiler	hamlet	London lag nun weit hinter ihnen, statt dessen sahen sie anmutige grüne Felder, die allmählich weitläufigen, purpurn schimmernden Mooren wichen, Weilern mit kleinen Spielzeugkirchen und einer großen Stadt, in der es von Autos nur so wimmelte, die an bunte Ameisen erinnerten. 
+ereignislos	uneventful	Mehrere ereignislose Stunden später jedoch musste sich Harry eingestehen, daß er allmählich die Lust verlor. 
+kannte	(I	Als sie eine Weile später wieder durch die Wolken hinabtauchten, mußten sie in der Dunkelheit nach einem Punkt in der Landschaft Ausschau halten, den sie kannten. 
+Steuer	loss dear	»Na komm schon«, flehte Ron und rüttelte ein wenig am Steuer, »wir sind doch fast da, los «– Der Motor stöhnte auf. 
+Kühlerhaube	bonnet	Unter der zusammengeschrumpelten Kühlerhaube paffte Dampf hervor; Hedwig kreischte in panischer Angst, und auf Harrys Kopf pochte da, wo er gegen die Windschutzscheibe geknallt war, eine golfballgroße Beule. 
+Sehnen	tendons	Er war durchgeknackst und fast entzweigebrochen; die Spitze hing lahm herab und wurde nur noch von ein paar Sehnen gehalten. 
+schmettern	hurl	In genau diesem Moment schlug etwas mit der Kraft eines rasenden Nashorns gegen seine Wagentür und schmetterte ihn gegen Ron, während zugleich ein ebenso heftiger Schlag das Dach traf. 
+Ast	branch	»Was ist «– Ron starrte mit offenem Mund durch die Scheibe, und Harry folgte seinem Blick gerade noch rechtzeitig, um zu sehen, wie ein Ast, so dick wie eine Pythonschlange, auf sie einschlug. 
+Hagel	hail	»Aaarh!«, sagte Ron, als ein weiterer Ast sich zurückbog und eine tiefe Delle in die Fahrertür schlug; die Windschutzscheibe zitterte nun unter einem Hagel von Schlägen knöchelartiger Zweiglein, und ein Ast, so dick wie ein Rammbock, hämmerte wild auf das Dach ein, das sich immer tiefer eindellte - »Raus hier, schnell!«, schrie Ron und warf sich mit aller Kraft gegen die Tür, doch schon schleuderte ihn ein teuflischer Aufwärtshaken in Harrys Schoß. 
+Rammbock	battering ram	»Aaarh!«, sagte Ron, als ein weiterer Ast sich zurückbog und eine tiefe Delle in die Fahrertür schlug; die Windschutzscheibe zitterte nun unter einem Hagel von Schlägen knöchelartiger Zweiglein, und ein Ast, so dick wie ein Rammbock, hämmerte wild auf das Dach ein, das sich immer tiefer eindellte - »Raus hier, schnell!«, schrie Ron und warf sich mit aller Kraft gegen die Tür, doch schon schleuderte ihn ein teuflischer Aufwärtshaken in Harrys Schoß. 
+Aufwärtshaken	uppercut	»Aaarh!«, sagte Ron, als ein weiterer Ast sich zurückbog und eine tiefe Delle in die Fahrertür schlug; die Windschutzscheibe zitterte nun unter einem Hagel von Schlägen knöchelartiger Zweiglein, und ein Ast, so dick wie ein Rammbock, hämmerte wild auf das Dach ein, das sich immer tiefer eindellte - »Raus hier, schnell!«, schrie Ron und warf sich mit aller Kraft gegen die Tür, doch schon schleuderte ihn ein teuflischer Aufwärtshaken in Harrys Schoß. 
+freilich	of course	Der Wagen freilich war nun am Ende seiner Kräfte. 
+spöttisch	mocking	Der grausame, spöttische und bei allen außer bei den Schülern seines eigenen Hauses (Slytherin) unbeliebte Snape unterrichtete Zaubertränke. 
+gekündigt	called in	»Vielleicht hat er gekündigt«, entgegnete Harry, »weil er wieder nicht Verteidigung gegen die dunklen Künste unterrichten darf!« 
+Einmachglas	preserving jar	An den dunklen Wänden zogen sich Regale voller großer Einmachgläser entlang, in denen alle möglichen widerwärtigen Geschöpfe schwammen, deren Namen Harry im Moment nicht wußte. 
+Geschöpf	creature	An den dunklen Wänden zogen sich Regale voller großer Einmachgläser entlang, in denen alle möglichen widerwärtigen Geschöpfe schwammen, deren Namen Harry im Moment nicht wußte. 
+Trara	razzmatazz	Wollten hier mit großem Trara ankommen, nicht Wahr, die Herren« »Nein, Sir, die Absperrung in King’s Cross, sie«– »Ruhe«, sagte Snape kühl. 
+Absperrung	sealing off	Wollten hier mit großem Trara ankommen, nicht Wahr, die Herren« »Nein, Sir, die Absperrung in King’s Cross, sie«– »Ruhe«, sagte Snape kühl. 
+felsenfest	firm	»Zwei Londoner Muggel sind felsenfest überzeugt, daß sie einen alten Wagen über den Turm des Postamtes fliegen sahen« Als Mrs Hetty Bayliss in Norfolk um die Mittagszeit ihre Wäsche aufhängen wollte« Mr Angus Fleet aus Peebles schilderte der Polizei« Sechs bis sieben Muggel insgesamt. 
+überzeugt	convinced	»Zwei Londoner Muggel sind felsenfest überzeugt, daß sie einen alten Wagen über den Turm des Postamtes fliegen sahen« Als Mrs Hetty Bayliss in Norfolk um die Mittagszeit ihre Wäsche aufhängen wollte« Mr Angus Fleet aus Peebles schilderte der Polizei« Sechs bis sieben Muggel insgesamt. 
+Bedauern	feel sorry for	»Zu meinem größten Bedauern gehört ihr nicht zu meinem Haus, und die Entscheidung, euch von der Schule zu weisen, ist nicht meine Sache. 
+Unheil	disaster	»Ich wünsche eine Erklärung«, sagte sie mit Unheil verkündend schimmernden Brillengläsern. 
+Schilderung	description	Ron stürzte sich in die Schilderung ihrer Erlebnisse und begann bei der Absperrung, die sie nicht durchlassen wollte. »– also hatten wir keine Wahl, Professor, wir konnten den Zug nicht erreichen.« 
+Erlebnis	experience	Ron stürzte sich in die Schilderung ihrer Erlebnisse und begann bei der Absperrung, die sie nicht durchlassen wollte. »– also hatten wir keine Wahl, Professor, wir konnten den Zug nicht erreichen.« 
+bestürzen	dismay	Harry sah sie bestürzt an. 
+spuren	ruts	Harry spürte seinen ganzen Körper taub werden. 
+taub	deaf	Harry spürte seinen ganzen Körper taub werden. 
+Enttäuschung	disappointment	Die Enttäuschung, die in Dumbledores Stimme lag, gefiel Harry überhaupt nicht. 
+Schwindel	fake	Daß Dumbledore diesen Schwindel sofort durchschauen würde, war ihm klar, doch Dumbledore wollte nichts weiter über den Wagen wissen. 
+einschärfen	(to) inculcate	»Doch ich muß Ihnen nachdrücklich einschärfen, daß Ihr Handeln ein schwerer Fehler war. 
+absagen	(to) cancel	Snape sah aus, als wäre Weihnachten abgesagt worden. 
+Vorschrift	instruction	Er räusperte sich und sagte:»Professor Dumbledore, diese Jungen haben die Vorschriften zur Einschränkung der Zauberei Minderjähriger gebrochen und einen wertvollen alten Baum schwer beschädigt« gewiß müssen derlei Taten«– »Es ist Sache von Professor McGonagall, über die Strafen für die Jungen zu befinden, Severus«, sagte Dumbledore gelassen. 
+beschädigen	damage	Er räusperte sich und sagte:»Professor Dumbledore, diese Jungen haben die Vorschriften zur Einschränkung der Zauberei Minderjähriger gebrochen und einen wertvollen alten Baum schwer beschädigt« gewiß müssen derlei Taten«– »Es ist Sache von Professor McGonagall, über die Strafen für die Jungen zu befinden, Severus«, sagte Dumbledore gelassen. 
+Obhut	care	»Sie gehören zu ihrem Haus und stehen daher in ihrer Obhut. 
+versetzen	shift	Professor McGonagall versetzte ihm einen durchdringenden Blick, doch er war sich sicher, den Anflug eines Lächelns zu erkennen. jedenfalls sah ihr Mund nicht mehr ganz so schmal aus. 
+Achsel	shoulder	Harry zuckte die Achseln. 
+angeben	show	»Wünschte, wir könnten hoch zur Feier«– »Sie wollte nicht, daß wir mit der Geschichte angeben«, sagte Ron weise. 
+zerren	drag	Mit Genugtuung stellte er fest, daß sein Foto-Ich es Lockhart mehr als schwer machte und sich partout nicht ins Blickfeld zerren ließ. 
+feixen	smirk	Und hinter den sechs stämmigen Gestalten vor ihnen kam ein siebter, kleinerer Junge zum Vorschein, über das ganze bleiche, spitze Gesicht feixend. 
+Gebüsch	bushes	»Schnell, da rüber«, zischte Harry und zerrte Ron hinter ein nahes Gebüsch. 
+leibhaftig	in person	Harry zupfte seinen Umhang zurecht und suchte sich einen Platz ganz hinten, wo er sich damit beschäftigte, alle sieben Bücher von Lockhart vor sich aufzustapeln, so daß er den leibhaftigen Lockhart nicht anzusehen brauchte. 
+hauchzart	extremely delicate	Gilderoy Lockhart kam herausgeschritten, heute in einem hauchzart malvenfarben getönten Umhang. 
+Eingeweide	entrails	Seine Eingeweide brannten vor Schuldgefühlen. 
+füttern	clothes	Wenn davon auch nur ein Wort wahr ist, futtere ich meinen Kessel auf.« 
+aufschlitzen	(to) slit open	Wenn du den halben Kopf aufgeschlitzt kriegst, macht dich das noch lange nicht zu was Besonderem, wenn du mich fragst.« 
+Raupe	caterpillar	Wood zückte seinen Zauberstab, tippte auf die Tafel, und die Pfeile begannen über den Plan zu krabbeln wie Raupen. 
+passé	passé	»Wenn ich sage, ihr sollt sie aufsetzen, dann Paßt auf, daß eure Ohren vollständig bedeckt sind«, sagte Professor Sprout. 
+ehrfurchtsvoll	reverent	»Und du bist der Sucher von Gryffindor, nicht?«, sagte Colin ehrfurchtsvoll. »ja«, sagte Harry, als sie aus dem Schloßtor gingen und sich auf den Weg über den taugetränkten Rasen machten. 
+zwinkern	(to) wink	»Er zwinkerte Harry kumpelhaft zu und schritt davon. 
+sind	are	Wir sind bei weitem das beste Team. 
+kullern	(to) roll	Ein heftiges Würgen, und noch mehr Schnecken kullerten Ron den Bauch hinunter. 
+ekelhaft	disgusting	Ich will doch keine ekelhafte Narbe quer über mein Gesicht haben, nein danke. 
+Schwamm	sponge	Sein Hirn fühlte sich wie ein ausgedrückter Schwamm an. 
+kumpelhaft	matey	»Er zwinkerte Harry kumpelhaft zu und schritt davon. 
+Beule	bulge	Am Freitagmorgen übertraf er sich selbst: Pfeilschnell schoß er aus Rons Hand, flog genau zwischen die Augen des kleinen alten Professor Flitwick und hinterließ dort eine große, pulsierende grüne Beule. 
+Findling	foundling	Auf dem kleinen Gemüsebeet hinter Hagrids Haus wuchsen ein Dutzend der größten Kürbisse, die Harry je gesehen hatte. jeder war so groß wie ein mächtiger Findling. 
+Weide	browse	Professor Sprout trug einen Arm voll Mullbinden, und mit einem erneuten Anflug von Schuldgefühlen erkannte Harry in der Ferne die Peitschende Weide, die nun etliche Zweige in Bandagen hatte. 
+Bann	entrance	Er starrte Harry an, als stünde er unter einem Bann. 
+Knall	pop	Ein lauter Knall hallte im Stadion wider, ein grüner Lichtstrahl schoß aus dem falschen Ende von Rons Zauberstab heraus, traf ihn in den Magen und schleuderte ihn in hohem Bogen rücklings ins Gras. 
+ausrasten	(to) disengage	»Malfoy hat Hermine beschimpft – muß wirklich schlimm gewesen sein, denn alle sind ausgerastet «– »Es war schlimm«, sagte Ron heiser und tauchte bleich und schwitzend über der Tischplatte auf, »Malfoy hat sie >Schlammblut(genannt, Hagrid.« 
+Herrschaft	rule	»Um was geht es denn, Herrschaften? 
+spotten	mock	»Weasley hätte gern eine Autogrammkarte, Potter«, spottete Malfoy, »sie wäre mehr wert als das ganze Haus seiner Familie «– Blitzschnell zog Ron seinen geflickten Zauberstab hervor, doch Hermine schlug Abstecher mit Vampiren knallend zu und flüsterte: »Schau mal, wer da kommt!« 
+Auflauf	crowd	Harry schmeckte sein Auflauf mit Hackfleisch und Kartoffeln nicht so gut, wie er erwartet hatte. 
+Fühler	feeler	Bei diesen Worten versetzte sie einer dornigen, dunkelroten Pflanze, deren lange Fühler sich still und leise über ihre Schulter gestohlen hatten, einen heftigen Klaps, und die Fühler wichen rasch zurück. 
+Missbilligung	disapproval	»Ein Schwellzauber, nehme ich an?«, sagte Hermine, hin-und hergerissen zwischen Mißbilligung und Vergnügen. 
+Wichtel	brownie	»Ja«, sagte er mit theatralischer Stimme, »frisch gefangene Wichtel aus Cornwall.« 
+Mullbinde	gauze bandage	Professor Sprout trug einen Arm voll Mullbinden, und mit einem erneuten Anflug von Schuldgefühlen erkannte Harry in der Ferne die Peitschende Weide, die nun etliche Zweige in Bandagen hatte. 
+gehässig	spiteful	Und was die alten Sauberwischs angeht«- gehässig lächelte er Fred und George an, die ihre Sauberwischs Fünf in Händen hielten -»damit könnt ihr die Tafel wischen.« 
+würgen	strangle	Ein heftiges Würgen, und noch mehr Schnecken kullerten Ron den Bauch hinunter. 
+untersetzt	put underneath	Professor Sprout war eine untersetzte kleine Hexe mit einem Flickenhut auf ihrem windzerzausten Haar; meist hatte sie eine ganze Menge Erde auf den Kleidern, und beim Anblick ihrer Fingernägel wäre Tante Petunia in Ohnmacht gefallen. 
+türkisfarben	turquoise	Tadellos gekleidet war dagegen Gilderoy Lockhart mit seinem wehenden türkisfarbenen Umhang. 
+zustande	concluded	Sie zeigte ihnen eine Hand voll Mantelknöpfe, die sie in Verwandlung zustande gebracht hatte. 
+frösteln	feel chilly	»Von den andern Mannschaften hat noch keine mit dem Training angefangen, dieses Jahr sind wir die Ersten in den Startlöchern «– Gähnend und ein wenig fröstelnd stieg Harry aus dem Bett und machte sich auf die Suche nach seinem Quidditch-Umhang. 
+feixen	smirk	Malfoy feixte so breit, daß seine Augen sich zu Schlitzen verengten. 
+sausen	whiz	Mit vollem Karacho sauste er um das Stadion und jagte Fred und George hinterher. 
+löchern	holes	Doch Colin hörte nicht auf, Harry den ganzen Weg über den Rasen hinunter zum Quidditch-Feld mit Fragen zu löchern, und Harry konnte ihn erst abschütteln, als sie die Umkleidekabinen erreicht hatten. 
+Ansturm	onslaught	»Oh, sieh mal«, sagte Flint, »was für ein Ansturm.« 
+ursprünglich	original	»Sie wird verwendet, um Verwandelte oder Verfluchte in ihren ursprünglichen Zustand zurückzuversetzen.« 
+emsig	industrious	»Schon wenn man in Form ist, ist das ein schwieriger Fluch, aber mit einem zerbrochenen Zauberstab «– Hagrid war emsig damit beschäftigt, ihnen Tee zu kochen. 
+Schraubstock	vice	Harry, wie mit einem Schraubstock an Lockhart gepreßt, sah Malfoy mit spöttischem Blick in der Menge verschwinden. 
+rupfen	pluck	»Harry«, sagte Hagrid, als ob ihm plötzlich etwas eingefallen wäre, »mit dir muß ich noch ein Hühnchen rupfen. 
+flackern	flicker	Malfoys blasiertes Gesicht begann zu flackern. 
+unverkennbar	unmistakable	Auf meinen Reisen sind mir nur zufällig einige dieser Exoten begegnet«– »Gewächshaus drei heute, Freunde«, sagte Professor Sprout, die nicht wie sonst immer fröhlich, sondern unverkennbar miesepetrig dreinsah. 
+verscheuern	flog	Ihr könntet eure Sauberwischs Fünf verscheuern, vielleicht hat ein Museum Interesse dran.« 
+Taugenichts	good-for-nothing	»Ah, da ist ja der kleine Taugenichts!«, sagte er. 
+blasiert	blasé	»Ich bin der neue Sucher der Slytherins, Weasley«, sagte Malfoy mit blasierter Miene. 
+räumen	clear [away]	»Hat mich beraten, wie man Wassergeister aus einer Quelle rauskriegt«, brummte Hagrid, dabei räumte er einen halb gerupften Hahn vom geschrubbten Tisch und setzte den Teekessel auf. 
+partout	at all costs	Mit Genugtuung stellte er fest, daß sein Foto-Ich es Lockhart mehr als schwer machte und sich partout nicht ins Blickfeld zerren ließ. 
+Genugtuung	satisfaction	Mit Genugtuung stellte er fest, daß sein Foto-Ich es Lockhart mehr als schwer machte und sich partout nicht ins Blickfeld zerren ließ. 
+Namenszug	signature	Ein paar der Bilder hatte er sogar mit seinem Namenszug versehen. 
+gönnerhaft	patronizing	Harry wollte gerade den Mund aufmachen, doch Lockhart patschte ihm den Arm auf die Schulter und dröhnte gönnerhaft: »Dumme Frage! 
+Karacho	Karacho	Mit vollem Karacho sauste er um das Stadion und jagte Fred und George hinterher. 
+knallrot	bright	Hermine riß ihm den Stundenplan aus der Hand und wurde knallrot. 
+strahlen	spouts	Prompt flog die Tür auf Lockhart strahlte auf ihn herab. 
+gemein	coarse	Natürlich hab ich mitgekriegt, daß es wirklich übel war «– »Das ist so ziemlich das Gemeinste, was ihm einfallen konnte«, keuchte Ron und tauchte wieder auf. 
+heiser	hoarse	»Malfoy hat Hermine beschimpft – muß wirklich schlimm gewesen sein, denn alle sind ausgerastet «– »Es war schlimm«, sagte Ron heiser und tauchte bleich und schwitzend über der Tischplatte auf, »Malfoy hat sie >Schlammblut(genannt, Hagrid.« 
+Schimpfwort	insult	»Schlammblut ist ein wirklich schlimmes Schimpfwort für jemanden, der aus einer Muggelfamilie stammt – du weißt ja, mit Eltern, die keine Zauberer sind. 
+unscheinbar	inconspicuous	Harry, der nicht die geringste Ahnung hatte, was Hermine mit dem»Schrei»der Alraune meinte, fand die Gewächse recht unscheinbar. 
+Neige	tip	Die Kerzen brannten zur Neige und warfen ihr flackerndes Licht über die vielen Gesichter Lockharts, die Harry ansahen. 
+Begleiter	companion	Hin und wieder fing er einen Satz auf wie:»Ruhm ist ein tückischer Begleiter, Harry«, oder:»Berühmt sein heißt, ruhmreich zu handeln, merken Sie sich das.« 
+miesepetrig	miesepetrig	Auf meinen Reisen sind mir nur zufällig einige dieser Exoten begegnet«– »Gewächshaus drei heute, Freunde«, sagte Professor Sprout, die nicht wie sonst immer fröhlich, sondern unverkennbar miesepetrig dreinsah. 
+Knochenmark	bone marrow	Es war eine Stimme, eine Stimme, die ihm das Knochenmark gefrieren ließ, eine Stimme, erfüllt von eiskaltem Haß. 
+unfallträchtig	unfallträchtig	Neville war ein rundgesichtiger und unfallträchtiger Junge mit dem schlechtesten Gedächtnis von allen Menschen, die Harry jemals kennen gelernt hatte. 
+Gedächtnis	memory	Neville war ein rundgesichtiger und unfallträchtiger Junge mit dem schlechtesten Gedächtnis von allen Menschen, die Harry jemals kennen gelernt hatte. 
+schüchtern	shy	»Hallo, Harry, Ich bin« ich bin Colin Creevey«, sagte er atemlos und machte einen schüchternen Schritt auf ihn zu. 
+kraxeln	climb	Und Colin kraxelte hinter ihm her. 
+Los	draw lots	Beide waren fest davon überzeugt, das schlechtere Los gezogen zu haben. 
+strahlen	spouts	»Weiß natürlich, wer du bist, der berühmte Harry Potter« und du bist Hermine Granger – in allem immer Spitze«–(Hermine strahlte, da er auch ihr die Hand schüttelte)«– und Ron Weasley. 
+Grabesstille	deathly silence	Grabesstille machte sich breit. 
+Abstecher	side trip	Harry und Ron setzten sich an den Tisch der Gryffindors, neben Hermine, die Abstecher mit Vampiren aufgeschlagen gegen einen Milchkrug gelehnt hatte. 
+flauschig	fluffy	Es gab ein Gerangel, weil alle versuchten ein Paar zu bekommen, das nicht rosa und flauschig war. 
+Kronleuchter	chandelier	Sie packten Tintenfässer und spritzten damit in der Klasse herum, zerfetzten Bücher und Papiere, rissen Bilder von den Wänden, stülpten den Papierkorb um, packten Taschen und Bücher und warfen sie aus dem zerborstenen Fenster; nach ein paar Minuten nahmen die Schüler unter ihren Tischen Deckung und Neville pendelte vom Kronleuchter an der Decke. 
+missbilligen	disapprove of	Ihr»Morgen«-Gruß klang ein wenig steif, und Harry spürte, daß sie immer noch die Art und Weise, wie er und Ron nach Hogwarts gelangt waren, missbilligte. 
+Flutwelle	tidal wave	Harry und Ron saßen sprachlos da, als wäre eine Flutwelle über sie hinweggegangen. 
+lästig	tiresome	»Da wär ich mir nicht so sicher!«, sagte Lockhart und fuchtelte lästig mit dem Finger vor Seamus’ Nase herum. 
+gefrieren	freeze	Es war eine Stimme, eine Stimme, die ihm das Knochenmark gefrieren ließ, eine Stimme, erfüllt von eiskaltem Haß. 
+Dämmerschlaf	half-sleep	»So«, sagte Wood endlich und riß Harry aus einem wohligen Dämmerschlaf, in dem er sich vorstellte, was er in diesem Augenblick oben im Schloß zum Frühstück verspeisen könnte. 
+Päckchen	package	Tatsächlich hatte sich Harry gerade über seinen Haferbrei hergemacht, als auch schon ein Rauschen über ihren Köpfen zu hören war und gut hundert Eulen hereinströmten, in der Halle kreisten und Briefe und Päckchen in die schnatternde Schülerschar fallen ließen. 
+Heuler	whine	»Sie« sie hat mir einen Heuler geschickt«, sagte Ron mit matter Stimme. 
+ohrfeigen	slaps in the face	Ich hätte mich ohrfeigen können.« 
+erstaunlicherweise	astonishingly	Erstaunlicherweise konnte er jeden einzelnen seiner blitzenden Zähne zeigen, selbst wenn er nicht sprach. 
+bedrückt	depresses	»Ich glaube, wir können nichts tun außer abwarten, bis es aufhört«, sagte Hermine bedrückt, während sich Ron über die Wanne beugte. 
+zerfetzen	rip to pieces	»Komm« komm zu mir« laß mich dich zerreißen« laß mich dich zerfetzen« laß mich dich töten«– Harry fiel fast vom Stuhl und ein großer lila Fleck breitete sich auf Veronica Smethleys Straße aus. 
+flehentlich	pleadingly	Und es wär echt gut, wenn ich eins von dir hätte -»er sah Harry flehentlich bittend an«- vielleicht könnte dein Freund es schießen und ich stelle mich neben dich? 
+verkrümeln	slip off	Colin fummelte an seiner Kamera und schoß das Bild in dem Augenblick, als die Glocke hinter ihnen läutete und zum Nachmittagsunterricht rief »So, die Herrschaften, verkrümelt euch«, rief Lockhart den Umstehenden zu und ging mit Harry, den er immer noch an sich gepreßt hatte, auf das Schloßtor zu. 
+schalkhaft	roguish	Er zwinkerte ihnen erneut schalkhaft zu. 
+Rülpser	belch	Stattdessen gab er einen dröhnenden Rülpser von sich, und ein Dutzend Schnecken kullerten ihm aus dem Mund in den Schoß. 
+Herrschaft	rule	Colin fummelte an seiner Kamera und schoß das Bild in dem Augenblick, als die Glocke hinter ihnen läutete und zum Nachmittagsunterricht rief »So, die Herrschaften, verkrümelt euch«, rief Lockhart den Umstehenden zu und ging mit Harry, den er immer noch an sich gepreßt hatte, auf das Schloßtor zu. 
+krümmen	bend	Die Slytherins krümmten sich vor Lachen. 
+schnattern	(to) chatter	Tatsächlich hatte sich Harry gerade über seinen Haferbrei hergemacht, als auch schon ein Rauschen über ihren Köpfen zu hören war und gut hundert Eulen hereinströmten, in der Halle kreisten und Briefe und Päckchen in die schnatternde Schülerschar fallen ließen. 
+durchtrieben	crafty	Mit trollhaft durchtriebener Miene antwortete er:»Ist doch Platz genug für uns alle da, Wood.« 
+Geschmack	taste	»Hab Sie auf den Geschmack gebracht, was öffentliches Aufsehen angeht, nicht wahr?«, sagte Lockhart. 
+redselig	talkative	Es war, als hätte er einen äußerst redseligen Schatten. 
+Last	bear	Die vier langen Haustische unter der magischen Decke (heute in wolkig trübem Grau) ächzten unter ihrer Last aus Schüsseln mit Haferbrei, Platten voll geräuchertem Hering, Tellern mit Eiern und Schinken und Bergen von Toastbrot. 
+Hühnchen	chicken	»Harry«, sagte Hagrid, als ob ihm plötzlich etwas eingefallen wäre, »mit dir muß ich noch ein Hühnchen rupfen. 
+bergab	downhill	Vom Frühstück in der Großen Halle an ging es bergab. 
+Aufsehen	stir	»Hab Sie auf den Geschmack gebracht, was öffentliches Aufsehen angeht, nicht wahr?«, sagte Lockhart. 
+flankieren	flank	Er hatte sich direkt hinter Colin gestellt, flankiert, wie immer in Hogwarts, von seinen grobschlächtigen und brutalen Spießgesellen Crabbe und Goyle. 
+heimtückisch	malicious	Es ist meine Aufgabe, euch gegen die heimtückischsten Geschöpfe zu wappnen, die die Zaubererwelt kennt! 
+Geschöpf	creature	Es ist meine Aufgabe, euch gegen die heimtückischsten Geschöpfe zu wappnen, die die Zaubererwelt kennt! 
+schneiden	(to) cut	Laut und schneidend hallte Draco Malfoys Stimme im ganzen Hof wider. 
+Waffenrock	tunic	Er trug einen eleganten Federhut auf dem langen Lockenhaar und einen Waffenrock mit Halskrause, so daß man nicht sehen konnte, daß sein Hals fast ganz durchtrennt war. 
+Dampf	steam	Er war blaß wie Dampf und Harry sah durch ihn hindurch nach draußen auf den dunklen Himmel und die Sintflut, die sich aus ihm ergoß. 
+Sintflut	Flood	Er war blaß wie Dampf und Harry sah durch ihn hindurch nach draußen auf den dunklen Himmel und die Sintflut, die sich aus ihm ergoß. 
+Angelegenheit	matter	»Sie ebenfalls«, sagte Harry; »Ah«, sagte der Fast Kopflose Nick mit eleganter Handbewegung, »eine Angelegenheit ohne Bedeutung« nicht, daß ich wirklich Mitglied werden wollte« dachte, ich bewerbe mich mal, doch offenbar genüge ich >nicht den Anforderungen<.« 
+Mitglied	member	»Sie ebenfalls«, sagte Harry; »Ah«, sagte der Fast Kopflose Nick mit eleganter Handbewegung, »eine Angelegenheit ohne Bedeutung« nicht, daß ich wirklich Mitglied werden wollte« dachte, ich bewerbe mich mal, doch offenbar genüge ich >nicht den Anforderungen<.« 
+Bedauern	feel sorry for	Daher muss ich Ihnen mit dem größten Bedauern mitteilen, daß Sie nicht den Anforderungen entsprechen. 
+Sehnen	tendons	»Zwei Zentimeter Haut und Sehnen halten meinen Kopf auf dem Hals, Harry! 
+Schnupfen	(to) sniff	»Sie verschwinden gam besten von hier, Harry«, sagte Nick hastig, »Filch hat ganz schlechte Laune – er hat einen Schnupfen, und ein paar Drittkläßler haben in Kerker fünf versehentlich Froschgehirne über die ganze Decke gespritzt, er hat den ganzen Morgen geputzt, und wenn er Sie hier vor Schlamm triefen sieht «– »Stimmt«, sagte Harry und wich vor dem anklagenden Starren von Mrs Norris zurück, doch nicht schnell genug. 
+Schlamm	mud	»Sie verschwinden gam besten von hier, Harry«, sagte Nick hastig, »Filch hat ganz schlechte Laune – er hat einen Schnupfen, und ein paar Drittkläßler haben in Kerker fünf versehentlich Froschgehirne über die ganze Decke gespritzt, er hat den ganzen Morgen geputzt, und wenn er Sie hier vor Schlamm triefen sieht «– »Stimmt«, sagte Harry und wich vor dem anklagenden Starren von Mrs Norris zurück, doch nicht schnell genug. 
+triefen	drip	»Sie verschwinden gam besten von hier, Harry«, sagte Nick hastig, »Filch hat ganz schlechte Laune – er hat einen Schnupfen, und ein paar Drittkläßler haben in Kerker fünf versehentlich Froschgehirne über die ganze Decke gespritzt, er hat den ganzen Morgen geputzt, und wenn er Sie hier vor Schlamm triefen sieht «– »Stimmt«, sagte Harry und wich vor dem anklagenden Starren von Mrs Norris zurück, doch nicht schnell genug. 
+Abschreckung	deterrence	»Dreck«, murmelte er zornig, »große, glühend heiße Drachenpopel« Froschgehirne« Ratteninnereien« mir reicht’s« Strafe zur Abschreckung« wo ist das Formblatt« da«– Er hatte eine dicke Rolle Pergament aus der Schreibtischschublade gezogen und sie vor sich ausgebreitet und tunkte nun den langen schwarzen Federkiel in das Tintenfaß. 
+Dunstschleier	veil of haze	Die Slytherins jagten durch die Luft wie Senkrechtstarter, so berichteten sie, und seien nur noch als sieben grünliche Dunstschleier auszumachen. 
+Senkrecht·starter	vertical	Die Slytherins jagten durch die Luft wie Senkrechtstarter, so berichteten sie, und seien nur noch als sieben grünliche Dunstschleier auszumachen. 
+schnurstracks	straight	»Solche Geschichten passieren nicht oft in Hogwarts«, versicherte ihr Ron, »sie werden den Verrückten kriegen, der es getan hat, und ihn schnurstracks rauswerfen. 
+gewiss	certainly	»Es wäre angeraten, ihm gewisse Vergünstigungen zu entziehen, bis er bereit ist, uns die ganze Geschichte zu erzählen. 
+Vergünstigung	privilege	»Es wäre angeraten, ihm gewisse Vergünstigungen zu entziehen, bis er bereit ist, uns die ganze Geschichte zu erzählen. 
+zuverlässig	reliable	»Zuverlässige historische Quellen sagen uns jedenfalls so viel«, sagte er. 
+beiläufig	casual	»Hallo, Colin«, sagte Harry beiläufig. 
+überwuchern	(to) overgrow	»Doch diese klaren Tatsachen werden überwuchert durch die phantasiereiche Legende von der Kammer des Schreckens. 
+unschuldig	innocent	»Unschuldig bis zum Beweis der Schuld, Severus«, sagte er entschieden. 
+grantig	bad-tempered	»Ich kann da nicht rein«, sagte Ron grantig. 
+halblang	mid-length	»Nun mal halblang, Severus«, sagte Professor McGonagall scharf, »ich sehe keinen Grund, dem Jungen das Quidditch zu verbieten. 
+teigig	doughy	»Dafür wäre schwarze Magie der fortgeschrittensten «– »Er hat’s getan, er hat’s getan«, keifte Filch, und sein teigiges Gesicht lief purpurrot an. 
+rauschen	rush	Im Nu rauschte er an Harry, Ron und Hermine vorbei und holte Mrs Norris vom Fackelhalter. 
+Alraune	mandrake	»Meine Katze ist versteinert worden!«, kreischte er mit hüpfenden Augenbällen, »ich will eine Bestrafung sehen« »Wir werden sie heilen können, Argus«, sagte Dumbledore geduldig, »Madam Sprout ist es kürzlich gelungen, einige Alraunen zu züchten. 
+zufolge	according to	Dieser zufolge hat Slytherin eine Geheimkammer in das Schloß eingebaut, von der die anderen Gründer nichts wußten. 
+Beweis	prove	Es gibt keinerlei Beweise dafür, daß Potter etwas Unrechtes getan hat.« 
+röntgen	X-ray	Seine blinkenden hellblauen Augen gaben Harry das Gefühl, geröntgt zu werden. 
+prüfen	test	Dumbledore sah Harry prüfend an. 
+Bewusstsein	awareness	»Ich habe Mrs Norris nicht einmal angefasst!«, sagte Harry laut und im Bewusstsein, daß ihn alle ansahen, auch alle Lockharts an den Wänden. 
+starren	stare	Mit einem Funkeln in den kalten Augen, das sonst blutleere Gesicht gerötet, grinste er beim Anblick der starren Katze. 
+Klecks	make a stain	Als er gedankenverloren nach seinem Zauberstab griff, um die Kleckse zu entfernen, fing das Pergament Feuer. 
+gequält	tormented	Er hat – in meinem Büro – er weiß, daß ich ein – ich ein -»in Filchs Gesicht trat etwas fürchterlich Gequältes, »er weiß, daß ich ein Squib bin«, stieß er hervor. 
+versiegeln	seal	Und die Legende sagt weiter, daß Slytherin diese Kammer versiegelt hat, so daß keiner sie öffnen kann, bis sein eigener wahrer Erbe zur Schule kommt. 
+ungehalten	annoyed	Professor Binns sah ein wenig ungehalten aus. 
+Kinn	chin	Die Maulende Myrte schwebte über der Kloschüssel und drückte an einem Pickel auf ihrem Kinn herum. 
+umstehen	(to) stand round	»Potter und seine Freunde waren vielleicht nur zur falschen Zeit am falschen Ort«, sagte er, und seine Lippen kräuselten sich in einem Anflug von Häme, als ob er dies bezweifelte, »aber wir haben hier eine Reihe von verdächtigen Umständen. 
+Maßband	(I	»Wo ist sie?«, fragte Harry, griff sich das Maßband und entrollte seine eigene Hausarbeit. 
+spuren	ruts	»Haben uns nur ein wenig umgesehen«, meinte Ron achselzuckend, »Spuren, weißt du «– Percy schwoll auf eine Weise an, die Harry stark an Mrs Weasley erinnerte. 
+beflissen	keen	Beflissen trat Lockhart vor. 
+furchteinflößend	frightening	Aber ich würde meinen – schaut euch den Kerl doch mal an «– »Ich denke«, sagte Harry rasch auf einen bedeutungsvollen Blick von Nick hin, »Nick ist sehr – furchteinflößend und – ähm «– »Ha!«, rief Sir Patricks Kopf, »wette, er hat Sie gebeten, das zu sagen!« 
+blühend	flower	»Die ganze Geschichte ist natürlich blühender Unsinn«, sagte er. 
+Vorahnung	premonition	»Wenn ich etwas dazu sagen darf, Direktor«, sagte Snape aus dem Schatten heraus, und Harrys ungute Vorahnung verstärkte sich; gewiß würde Snape nichts zu sagen haben, was ihm helfen könnte. 
+Unterkiefer	lower jaw	Dean Thomas, der mit herabhängendem Unterkiefer dagesessen und aus dem Fenster gestarrt hatte, schreckte aus seiner Trance; Lavender Brown riß den Kopf von ihren Armen und Nevilles Ellbogen rutschte vom Tisch. 
+unangenehm	unpleasant	Die Stimmung war unangenehm gespannt, denn alle sahen ihn an und warteten auf mehr. 
+verdutzt	taken aback	Professor Binns, inmitten eines sterbenslangweiligen Vortrags über die Internationale Zaubererversammlung von 1289, schaute verdutzt auf. 
+Schrecken	frighten	Der Erbe allein soll in der Lage sein, die Kammer des Schreckens zu entsiegeln, den Schrecken im Innern zu entfesseln und mit seiner Hilfe die Schule von all jenen zu säubern, die es nicht wert seien, Zauberei zu studieren.« 
+verdächtigen	suspect	»Potter und seine Freunde waren vielleicht nur zur falschen Zeit am falschen Ort«, sagte er, und seine Lippen kräuselten sich in einem Anflug von Häme, als ob er dies bezweifelte, »aber wir haben hier eine Reihe von verdächtigen Umständen. 
+aufgeregt	excited	Lockhart, aufgeregt und mit gewichtiger Miene, eilte hinter Dumbledore her; und auch die Professoren McGonagall und Snape folgten. 
+trübe	make liquid cloudy	Der Boden war feucht und spiegelte trübe das Licht einiger Kerzenstummel wider, die in ihren Haltern ausbrannten; von den zerkratzten Holztüren der Kabinen schälte sich die Farbe ab und eine hing in den Angeln. 
+Pickel	pimple	Die Maulende Myrte schwebte über der Kloschüssel und drückte an einem Pickel auf ihrem Kinn herum. 
+erben	heirs	FEINDE DES ERBEN, NEHMT EUCH IN ACHT »Was hängt – dadrunter?«, fragte Ron mit leichtem Zittern in der Stimme. 
+kräuseln	(to) frizz	»Potter und seine Freunde waren vielleicht nur zur falschen Zeit am falschen Ort«, sagte er, und seine Lippen kräuselten sich in einem Anflug von Häme, als ob er dies bezweifelte, »aber wir haben hier eine Reihe von verdächtigen Umständen. 
+Wasserlache	puddle [of water]	Harry rutschte beinahe aus – auf dem Boden war eine große Wasserlache; Ron und Hermine hielten ihn fest und gemeinsam näherten sie sich der Schrift an der Wand, die Augen auf den dunklen Schatten darunter gerichtet. 
+lauten	lutes	»Ich brauch doch nur noch sechs Zentimeter, nun komm schon «– Es läutete. 
+ernst	serious	»Unsinn, Flaherty«, sagte Professor Binns nun in ernsterem Ton. 
+hanebüchen	outrageous	Ich bereue es, Ihnen eine so hanebüchene Legende erzählt zu haben! 
+Reißaus	heels	Harry erzählte Ron, daß Justin Finch-Fletchley vor ihm Reißaus genommen habe. 
+bloke	(to) bleat	»Der müßte schon ziemlich blöde sein.« 
+leibhaftig	in person	»Er spähte zu Hermine hinüber, als ob er noch nie zuvor eine leibhaftige Schülerin gesehen hätte. 
+empfand	(I	Sosehr er Filch verabscheute, Harry konnte nicht anders, er empfand ein wenig Mitleid für ihn, wenn auch nicht so viel wie für sich selbst. 
+unheimlich	terrifically	»Aber, du mußt zugeben, es ist unheimlich«– »Ich weiß, es ist unheimlich«, sagte Harry. 
+reißerisch	sensational	»Allerdings ist die Legende, von der Sie sprechen, eine derart reißerische, geradezu lächerliche Geschichte «– Doch nun hing die ganze Klasse an Professor Binns’ Lippen. 
+erbost	infuriate	»Das hab ich auch Ginny gesagt«, sagte Percy erbost, »aber sie denkt offenbar immer noch, daß ihr von der Schule fliegt, ich hab sie nie so aufgeregt gesehen, sie heult sich die Augen aus, denk doch mal an sie, alle Erstkläßler sind wegen dieser ganzen Geschichte völlig aus dem Häuschen «– »Dir ist Ginny doch egal«, sagte Ron, und die Ohren liefen ihm jetzt rot an. 
+trocken	dry	Ich kenne nämlich den Gegenfluch, der sie gerettet hätte«– Während Lockharts Auslassungen waren immer wieder Filchs trockene, markerschütternde Schluchzer zu hören. 
+fähig	able	Er war auf einem Stuhl neben dem Schreibtisch zusammengesunken, das Gesicht in den Händen vergraben und nicht fähig, einen Blick auf Mrs Norris zu werfen. 
+Achsel	shoulder	Harry und Ron standen mit offenen Mündern da, doch Hermine zuckte matt die Achseln und meinte:»Offen gestanden war das für Myrtes Verhältnisse eine fast fröhliche Unterhaltung« kommt, gehen wir.« 
+Abschaum	scum	»Überlegen wir mal«, sagte Ron mit gespielter Ratlosigkeit, »wer, den wir kennen, denkt, Muggelkinder seien Abschaum?« 
+zypriotisch	Cypriot	»Er räusperte sich, was sich anhörte wie zerbrechende Kreide, und fuhr fort:»im September jenes Jahres hat ein Unterausschuss zyprischer Zauberer «– Er verhaspelte sich und brach ab. 
+Bücke	stoop	Harry, Ron und Hermine tauschten gespannte Bücke und setzten sich auf Stühle außerhalb des Kerzenscheins. 
+Weise	show	»Haben uns nur ein wenig umgesehen«, meinte Ron achselzuckend, »Spuren, weißt du «– Percy schwoll auf eine Weise an, die Harry stark an Mrs Weasley erinnerte. 
+Auslassung	omission	Ich kenne nämlich den Gegenfluch, der sie gerettet hätte«– Während Lockharts Auslassungen waren immer wieder Filchs trockene, markerschütternde Schluchzer zu hören. 
+wachsam	watchful	Hinter ihnen im Halbschatten stand Snape, wachsam und mit einem höchst merkwürdigen Gesichtsausdruck: als ob er angestrengt versuchte nicht zu lächeln. 
+achselzuckend	shrugging	»Haben uns nur ein wenig umgesehen«, meinte Ron achselzuckend, »Spuren, weißt du «– Percy schwoll auf eine Weise an, die Harry stark an Mrs Weasley erinnerte. 
+eifrig	eager	Ehrlich gesagt, wenn der Sprechende Hut versucht hätte, mich nach Slytherin zu stecken, hätte ich gleich wieder den Zug nach Hause genommen«– Hermine nickte eifrig, doch Harry sagte kein Wort. 
+Angriff	attack	Ein paar Tage lang sprachen sie in der Schule von nichts anderem als vom Angriff auf Mrs Norris. 
+schwellen	thresholds	»Haben uns nur ein wenig umgesehen«, meinte Ron achselzuckend, »Spuren, weißt du «– Percy schwoll auf eine Weise an, die Harry stark an Mrs Weasley erinnerte. 
+Zipfel	corner	Es gibt rächt den Zipfel eines Beweises, daß Slytherin auch nur einen geheimen Besenschrank gebaut hat! 
+rächen	avenge	Es gibt rächt den Zipfel eines Beweises, daß Slytherin auch nur einen geheimen Besenschrank gebaut hat! 
+ausstopfen	(to) stuff	Dumbledore murmelte jetzt seltsame Worte vor sich hin und tippte Mrs Norris mit seinem Zauberstab an, doch nichts passierte: sie sah weiterhin aus, als wäre sie gerade ausgestopft worden. »– ich kann mich an einen ganz ähnlichen Vorfall in Ouagadogou erinnern«, sagte Lockhart, »eine Serie von Attacken, nachzulesen in meiner Autobiographie; ich konnte die Dorfbevölkerung mit verschiedenen Amuletten ausstatten, und die Sache war sofort erledigt«– Die Lockharts an den Wänden nickten allesamt zustimmend. 
+Kreide	chalk	»Er räusperte sich, was sich anhörte wie zerbrechende Kreide, und fuhr fort:»im September jenes Jahres hat ein Unterausschuss zyprischer Zauberer «– Er verhaspelte sich und brach ab. 
+Verfolgung	pursuit	Sie haben dieses Schloß gemeinsam erbaut, fern von neugierigen Muggelaugen, denn es war ein Zeitalter, als das einfache Volk die Zauberei fürchtete und Hexen und Zauberer unter grausamer Verfolgung zu leiden hatten.« 
+bemüht	tries	Hermine bemühte sich offenbar immer noch, sich das Lachen zu verkneifen. 
+Staunen	amazement	Percy Weasley, mit glänzendem Vertrauensschülerabzeichen, stand wie angewurzelt am Treppenabsatz, mit dem Ausdruck ungläubigen Staunens auf dem Gesicht. 
+Lage	location	Der Erbe allein soll in der Lage sein, die Kammer des Schreckens zu entsiegeln, den Schrecken im Innern zu entfesseln und mit seiner Hilfe die Schule von all jenen zu säubern, die es nicht wert seien, Zauberei zu studieren.« 
+Bescheid	am content	»Die Klagende Witwe ist immerhin aus Kent angereist« es ist Zeit für meine Rede, ich geh lieber und sag dem Orchester Bescheid« e Das Orchester hörte jedoch in diesem Moment zu spielen auf. 
+einträchtig	harmonious	»Ein paar Jahre lang arbeiteten die Zauberer einträchtig zusammen. 
+gestanden	been	Harry und Ron standen mit offenen Mündern da, doch Hermine zuckte matt die Achseln und meinte:»Offen gestanden war das für Myrtes Verhältnisse eine fast fröhliche Unterhaltung« kommt, gehen wir.« 
+Verhältnis	relationship	Harry und Ron standen mit offenen Mündern da, doch Hermine zuckte matt die Achseln und meinte:»Offen gestanden war das für Myrtes Verhältnisse eine fast fröhliche Unterhaltung« kommt, gehen wir.« 
+Kluft	rig-out	Zwischen Slytherin und den andern tat sich eine wachsende Kluft auf. 
+Vorfall	incident	Dumbledore murmelte jetzt seltsame Worte vor sich hin und tippte Mrs Norris mit seinem Zauberstab an, doch nichts passierte: sie sah weiterhin aus, als wäre sie gerade ausgestopft worden. »– ich kann mich an einen ganz ähnlichen Vorfall in Ouagadogou erinnern«, sagte Lockhart, »eine Serie von Attacken, nachzulesen in meiner Autobiographie; ich konnte die Dorfbevölkerung mit verschiedenen Amuletten ausstatten, und die Sache war sofort erledigt«– Die Lockharts an den Wänden nickten allesamt zustimmend. 
+schrumplig	wrinkled	Er war uralt und schrumplig, und viele Leute sagten, er habe nicht bemerkt, daß er tot sei. 
+Mär	fable	Eine Mär, die dazu taugt, den Leichtgläubigen Furcht einzujagen.« 
+Staubsauger	vacuum cleaner	Professor Binns öffnete seine Unterlagen und begann dumpf dröhnend wie ein Staubsauger zu lesen, bis fast alle in der Klasse in einen Wachschlaf verfallen waren, nur gelegentlich aufmerkend, um einen Namen oder ein Datum zu notieren. 
+unterliegen	lose	Professor Binns öffnete seine Unterlagen und begann dumpf dröhnend wie ein Staubsauger zu lesen, bis fast alle in der Klasse in einen Wachschlaf verfallen waren, nur gelegentlich aufmerkend, um einen Namen oder ein Datum zu notieren. 
+Besessene	obsessive	Chapter 10: Der besessene Klatscher Seit der unrühmlichen Geschichte mit den Wichteln hatte Professor Lockhart keine lebenden Geschöpfe mehr in den Unterricht gebracht. 
+Geschöpf	creature	Chapter 10: Der besessene Klatscher Seit der unrühmlichen Geschichte mit den Wichteln hatte Professor Lockhart keine lebenden Geschöpfe mehr in den Unterricht gebracht. 
+Geschehnis	event	Stattdessen las er ihnen aus seinem Buch vor und manchmal spielte er einige der dramatischeren Geschehnisse daraus nach. 
+Schnupfen	(to) sniff	So hatte er ihn schon genötigt, einen einfachen Dörfler aus Transsylvanien zu spielen, den Lockhart von einem Babbelfluch geheilt hatte, einen Yeti mit einem Schnupfen und einen Vampir, der, seit Lockhart sich ihn zur Brust genommen hatte, nichts mehr außer Kopfsalat essen konnte. 
+Brust	breast	So hatte er ihn schon genötigt, einen einfachen Dörfler aus Transsylvanien zu spielen, den Lockhart von einem Babbelfluch geheilt hatte, einen Yeti mit einem Schnupfen und einen Vampir, der, seit Lockhart sich ihn zur Brust genommen hatte, nichts mehr außer Kopfsalat essen konnte. 
+Kopfsalat	cabbage	So hatte er ihn schon genötigt, einen einfachen Dörfler aus Transsylvanien zu spielen, den Lockhart von einem Babbelfluch geheilt hatte, einen Yeti mit einem Schnupfen und einen Vampir, der, seit Lockhart sich ihn zur Brust genommen hatte, nichts mehr außer Kopfsalat essen konnte. 
+weigern	refuse	Er hätte sich am liebsten geweigert, doch hatte er einen sehr guten Grund, Lockhart bei Laune zu halten. 
+heulen	(to) howl	»Ein schönes lautes Heulen, Harry – genau – und dann, stellt euch vor, stürze ich mich auf ihn – wie jetzt – und drück ihn zu Boden – so – mit der einen Hand halte ich ihn unten – mit der andern steche ich den Zauberstab gegen seine Kehle – dann nehme ich meine letzten Kräfte zusammen und führe den immens komplizierten Homorphus-Zauber aus – der Werwolf fiept jämmerlich – weiter, Harry – noch höher -gut – der Pelz verschwindet – die Reißzähne schrumpfen – und er verwandelt sich zurück
+Kehle	throat	»Ein schönes lautes Heulen, Harry – genau – und dann, stellt euch vor, stürze ich mich auf ihn – wie jetzt – und drück ihn zu Boden – so – mit der einen Hand halte ich ihn unten – mit der andern steche ich den Zauberstab gegen seine Kehle – dann nehme ich meine letzten Kräfte zusammen und führe den immens komplizierten Homorphus-Zauber aus – der Werwolf fiept jämmerlich – weiter, Harry – noch höher -gut – der Pelz verschwindet – die Reißzähne schrumpfen – und er verwandelt sich zurück in einen Menschen. 
+fiepen	whimper	»Ein schönes lautes Heulen, Harry – genau – und dann, stellt euch vor, stürze ich mich auf ihn – wie jetzt – und drück ihn zu Boden – so – mit der einen Hand halte ich ihn unten – mit der andern steche ich den Zauberstab gegen seine Kehle – dann nehme ich meine letzten Kräfte zusammen und führe den immens komplizierten Homorphus-Zauber aus – der Werwolf fiept jämmerlich – weiter, Harry – noch höher -gut – der Pelz verschwindet – die Reißzähne schrumpfen – und er verwandelt sich zurück in einen Menschen. 
+jämmerlich	pathetic	»Ein schönes lautes Heulen, Harry – genau – und dann, stellt euch vor, stürze ich mich auf ihn – wie jetzt – und drück ihn zu Boden – so – mit der einen Hand halte ich ihn unten – mit der andern steche ich den Zauberstab gegen seine Kehle – dann nehme ich meine letzten Kräfte zusammen und führe den immens komplizierten Homorphus-Zauber aus – der Werwolf fiept jämmerlich – weiter, Harry – noch höher -gut – der Pelz verschwindet – die Reißzähne schrumpfen – und er verwandelt sich zurück in einen Menschen. 
+Brust	breast	Lockhart warf sich in die Brust. 
+Belohnung	reward	Mein Buch Magisches Ich mit Autogramm als Belohnung für das beste Gedicht!« 
+Teesieb	tea strainer	»Oja«, sagte Hermine respektvoll, »so schlau, wie Sie diesen letzten mit dem Teesieb gefangen haben «– »Nun, sicher wird niemand etwas dagegen haben, wenn ich meiner besten Schülerin in diesem Jahr noch ein wenig weiterhelfe«, sagte Lockhart herzlich und zückte einen riesigen Pfauenfederhalter. »ja, hübsch, nicht wahr?«, sagte er, Rons empörten Blick mißdeutend, »ich benutz ihn normalerweise nur, um Bücher zu signieren.« 
+brauchbar	useful	Wie ich höre, sind gSie ein brauchbarer Spieler. 
+Erfahrung	experience	Bin immer gern bereit, meine Erfahrung an weniger gute Spieler weiterzugeben«– Harry gab einen undeutlichen Kehllaut von sich und hastete dann Ron und Hermine nach. 
+Aufschneider	boaster	»Er ist eben ein hirnloser Aufschneider«, sagte Ron. 
+schrill	shrill	»Aber was soll’s, wir haben, was wir brauchen «– »Er ist kein hirnloser Aufschneider«, sagte Hermine schrill, und im Laufschritt machten sie sich auf den Weg in die Bibliothek. 
+reizbar	irritable	Madam Pince, die Bibliothekarin, war eine dürre, reizbare Gestalt, die aussah wie ein unterernährter Geier. 
+Geier	vulture	Madam Pince, die Bibliothekarin, war eine dürre, reizbare Gestalt, die aussah wie ein unterernährter Geier. 
+hauchen	breathe	»Ich würd es so gerne behalten«, hauchte sie. 
+staksen	stalk	Sie stakste davon und verschwand zwischen den hohen Regalen. 
+schimmlig	mouldy	Ein paar Minuten später kehrte sie mit einem großen, schimmlig aussehenden Buch zurück. 
+schuldbewusst	guilty	Hermine steckte es vorsichtig in die Tasche, und während sie die Bibliothek verließen, achteten sie sorgfältig darauf, nicht allzu schnell zu gehen oder zu schuldbewußt dreinzuschauen. 
+Einwand	objection	Hermine hatte sich gegen Rons Einwände durchgesetzt und darauf hingewiesen, daß dies der letzte Ort sei, den jemand aufsuchen würde, der noch alle Tassen im Schrank hatte. 
+geräuschvoll	noisy	Die Maulende Myrte weinte geräuschvoll in ihrer Kabine, doch sie beachteten sie nicht, und Myrte tat es ihnen gleich. 
+ausmalen	(to) colour in	Einige der Zaubertränke hatten derart gruslige Wirkungen, daß sie es sich lieber nicht ausmalten, und es gab einige gräuliche Abbildungen, darunter ein Mann, dessen Inneres nach außen gekehrt war, und eine Hexe, der etliche Arme aus dem Kopf sprossen. 
+graulich	scary	Einige der Zaubertränke hatten derart gruslige Wirkungen, daß sie es sich lieber nicht ausmalten, und es gab einige gräuliche Abbildungen, darunter ein Mann, dessen Inneres nach außen gekehrt war, und eine Hexe, der etliche Arme aus dem Kopf sprossen. 
+Knöterich	Polygonum	»Florfliegen, Blutegel, Flußgras und Knöterich«, murmelte sie und fuhr mit dem Finger über die Zutatenliste. 
+Schererei	trouble	Hermine sah nach, ob draußen vor dem Klo die Luft rein war, und Ron brummte Harry zu:»Wir hätten viel weniger Scherereien, wenn du Malfoy morgen einfach vom Besen hauen könntest.« 
+Überschwang	exuberance	Die Brust vor Überschwang geschwellt, wandte sich Wood an Harry. 
+Händedruck	handshake	Madam Hooch, die Quidditch-Lehrerin, forderte Flint und Wood zum Händedruck auf, und unter drohenden Blicken packten sie härter zu als nötig. 
+hartnäckig	obstinate	Klatscher verlegten sich nie so hartnäckig auf einen Spieler, es war ihre Aufgabe, so viele Leute wie möglich von den Besen zu werfen« Fred Weasley wartete am anderen Ende auf den Klatscher. 
+überlegen	(to) think	Er hatte keine Ahnung, was im Spiel sonst noch vor sich ging, bis er Lee Jordan, den Stadionsprecher, rufen hörte:»Slytherin in Führung, sechzig zu null Punkte «– Die überlegenen Besen der Slytherins taten eindeutig ihre Wirkung, während der verrückte Klatscher alles unternahm, um Harry vom Besen zu schlagen. 
+platt	flat	»Wir werden platt gemacht. 
+Ärmel	sleeve	»Hört mal zu«, sagte Harry, während Madam Hooch näher kam, »wenn ihr beide die ganze Zeit um mich herumfliegt, kann ich den Schnatz nur kriegen, wenn er mir den Ärmel hochsaust«, sagte Harry. 
+saudumm	saudumm	Komm schon, Oliver, sag ihnen, daß sie mich allein lassen sollen« »Das ist alles deine Schuld«, sagte George wutentbrannt zu Wood,«>hol den Schnatz oder stirb bei dem Versuch< – das war saudumm von dir, ihm das zu sagen.« 
+Schlaufe	strap	Er zog weite Schlaufen und legte Loopings ein, flog Spiralen und im Zickzack und rollte sich seitlich weg; ihm war leicht schwindlig, dennoch hielt der die Augen weit geöffnet; der Regen klatschte gegen seine Brille und lief ihm die Nase hoch, während er sich vom Besen hängen ließ, um einem weiteren tückischen Angriff des Klatschers auszuweichen. 
+zurück|treten	(to) step back	Er lieferte ihnen immer noch einen verbissenen Kampf, »Zurücktreten«, sagte Lockhart und rollte seine jadegrünen Ärmel hoch. 
+jadegrün	jade-green	Er lieferte ihnen immer noch einen verbissenen Kampf, »Zurücktreten«, sagte Lockhart und rollte seine jadegrünen Ärmel hoch. 
+Überrest	remnant	»Sie hätten gleich zu mir kommen sollen!«, tobte sie und hielt den traurigen lahmen Überrest dessen in die Höhe, was vor einer halben Stunde noch ein gesunder Arm gewesen war. 
+Vorhang	curtain	»Sie werden die Nacht Ober hier bleiben müssen«– Hermine wartete vor dem Vorhang um Harrys Bett, während Ron ihm in den Schlafanzug half Es dauerte eine Weile, bis der gummiartige, knochenlose Arm in einen Ärmel gestopft war. 
+Lasche	loop	»Wie kannst du jetzt noch zu Lockhart halten, Hermine?«, rief Ron durch den Vorhang, während er Harrys lasche Finger durch den Ärmelaufschlag zog. 
+Rachen	pharynx	Es verbrannte Harry Mund und Rachen und ließ ihn husten und prusten. 
+schmutzig	dirty	In diesem Augenblick ging die Tür des Krankenzimmers auf Schmutzig und durchnäßt stürmten die anderen aus der Gryffindor-Mannschaft herein und scharten sich um Harrys Bett. 
+Ausschau	lookout	»In der Tat, Sir«, sagte Dobby und nickte lebhaft und ohrenflatternd mit dem Kopf, »Dobby hat sich versteckt und nach Harry Potter Ausschau gehalten und den Durchgang verschlossen, ja, und danach mußte Dobby seine Hände schienen -»er zeigte Harry zehn lange verbundene Finger«- aber Dobby war es egal, Sir, denn er glaubte, Harry Potter sei sicher, und er hat sich nie träumen lassen, daß Harry Potter auf einem anderen Weg zur Schule kommen würde« Er schüttelte den häßlichen Kopf und wiegte vor und zurück. 
+schienen	tracks	»In der Tat, Sir«, sagte Dobby und nickte lebhaft und ohrenflatternd mit dem Kopf, »Dobby hat sich versteckt und nach Harry Potter Ausschau gehalten und den Durchgang verschlossen, ja, und danach mußte Dobby seine Hände schienen -»er zeigte Harry zehn lange verbundene Finger«- aber Dobby war es egal, Sir, denn er glaubte, Harry Potter sei sicher, und er hat sich nie träumen lassen, daß Harry Potter auf einem anderen Weg zur Schule kommen würde« Er schüttelte den häßlichen Kopf und wiegte vor und zurück. 
+hässlich	ugly	at, Sir«, sagte Dobby und nickte lebhaft und ohrenflatternd mit dem Kopf, »Dobby hat sich versteckt und nach Harry Potter Ausschau gehalten und den Durchgang verschlossen, ja, und danach mußte Dobby seine Hände schienen -»er zeigte Harry zehn lange verbundene Finger«- aber Dobby war es egal, Sir, denn er glaubte, Harry Potter sei sicher, und er hat sich nie träumen lassen, daß Harry Potter auf einem anderen Weg zur Schule kommen würde« Er schüttelte den häßlichen Kopf und wiegte vor und zurück. 
+anbrennen	(to) light	»Dobby war so entsetzt, als er hörte, daß Harry Potter zurück in Hogwarts war, daß er das Essen seines Herrn anbrennen ließ! 
+Tracht	strive	Eine solche Tracht Prügel hat Dobby noch nie bekommen, Sir«– Harry ließ sich auf die Kissen zurückfallen. 
+schnauben	(to) snort	»oh, ist das alles?«, sagte Harry schnaubend. 
+Ungeziefer	vermin	Wir Hauselfen wurden wie Ungeziefer behandelt, Sir! 
+insgesamt	all in all	»Aber insgesamt, Sir, hat sich das Leben für unsereins verbessert, seit Sie über jenen, dessen Name nicht genannt werden darf, triumphiert haben. 
+Bündel	bundle up	»Neben ihm lag ein Bündel Trauben«, sagte Professor McGonagall, »wir glauben, er hat versucht sich hier heraufzuschleichen, um Potter zu besuchen.« 
+Traube	grape	»Neben ihm lag ein Bündel Trauben«, sagte Professor McGonagall, »wir glauben, er hat versucht sich hier heraufzuschleichen, um Potter zu besuchen.« 
+geschmolzen	melted	»Geschmolzen«, sagte Madam Pomfrey und schüttelte den Kopf, »alles geschmolzen«– »Was bedeutet das, Albus?«, fragte Professor McGonagall ängstlich. 
