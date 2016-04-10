@@ -1,6 +1,3 @@
-var YANDEX_KEY = '<YOUR KEY>';
-var YANDEX_API_URL = 'https://translate.yandex.net/api/v1.5/tr.json/translate?format=html&key=' + YANDEX_KEY;
-
 /**
  * Parse a TSV string into an array.
  *
@@ -39,7 +36,7 @@ function stringifyTsv(cards) {
  * @return {String}
  */
 function replaceWord(text, word) {
-  return text.replace(new RegExp('\\b' + word + '\\b', 'i'), '<b>' + word + '</b>');
+  return text.replace(new RegExp('\\b' + word + '\\b', 'i'), '&lt;b&gt;' + word + '&lt;/ b&gt;');
 }
 
 /**
@@ -55,14 +52,25 @@ function doGet(req) {
     return replaceWord(card.context, card.word);
   }).join('\n\n');
 
-  var result = UrlFetchApp.fetch(YANDEX_API_URL + '&lang=' + lang + '&text=' + encodeURIComponent(html));
-  var json = JSON.parse(result.getContentText());
-  var translation = json.text[0];
+  var translation = LanguageApp.translate(html, '', lang, { contentType: 'html' });
 
   translation.split('\n\n').forEach(function (line, index) {
-      var translatedWord = line.replace(/.*?<b>(.+?)<\/b>.*/, '$1');
-      cards[index].translation = translatedWord;
+    var card = cards[index];
+    var translatedWord = line.replace(/.*?&lt;b&gt;(.+?)&lt;\/ b&gt;.*/ig, '$1');
+    if (translatedWord == line) {
+      translatedWord = LanguageApp.translate(card.stem, '', lang);
+    }
+    card.translation = translatedWord.replace(/[,.!?:"()]/g, '').trim();
   });
 
-  return ContentService.createTextOutput(stringifyTsv(cards));
+  var response = stringifyTsv(cards);
+
+  return ContentService.createTextOutput(response);
+}
+
+function test() {
+  doGet({ parameters: {
+    lang: 'en',
+    text: 'beneiden	beneiden	Es fiel ihm schwer, Ron nicht zu beneiden, wenn er an die Dursleys dachte und daran, wie sie ihn wohl willkommen heißen würden, wenn er das nächste Mal im Ligusterweg auftauchte. '
+  } });
 }
