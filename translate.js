@@ -1,9 +1,5 @@
-'use strict';
-
-let fs = require('fs');
-let rp = require('request-promise');
-
-let lang = process.env.LANG || 'en';
+var YANDEX_KEY = '<YOUR KEY>';
+var YANDEX_API_URL = 'https://translate.yandex.net/api/v1.5/tr.json/translate?format=html&key=' + YANDEX_KEY;
 
 /**
  * Parse a TSV string into an array.
@@ -12,55 +8,61 @@ let lang = process.env.LANG || 'en';
  * @return {Array}
  */
 function parseTsv(tsv) {
-    let lines = tsv.toString().split('\n').filter((line) => line.length > 0);
-    let colLines = lines.map((line) => line.split('\t'));
+  var lines = tsv.split('\n').filter(function (line) { return line.length; });
+  var colLines = lines.map(function (line) { return line.split('\t') });
 
-    return colLines.map((cols) => {
-        return {
-            stem: cols[0],
-            word: cols[1],
-            context: cols[2],
-            translation: ''
-        }
-    });
+  return colLines.map(function (cols) {
+    return {
+      stem: cols[0],
+      word: cols[1],
+      context: cols[2],
+      translation: ''
+    }
+  });
 }
 
 /**
- * Load the translation of a word.
+ * Stringify an array into a TSV string.
  *
- * @param {String} word
- * @param {String} context
- * @return {Promise}
+ * @param {Array} cards
+ * @return {String}
  */
-function getTranslation(word, context) {
-    let url = 'https://script.google.com/macros/s/AKfycbwKqmcpvRAzQwu_h2tInmioplP6dbivnGeXgrIdXepJr4Udsk8/exec';
-
-    return rp.get({
-        uri: url,
-        qs: {
-            word: word,
-            text: context,
-            lang: lang
-        },
-        json: true
-    }).then((json) => json.word);
+function stringifyTsv(cards) {
+  var lines = cards.map(function (card) {
+    return [ card.stem, card.translation, card.context ].join('\t')
+  });
+  return lines.join('\n');
 }
 
+/**
+ * Mark word in text.
+ * @return {String}
+ */
+function replaceWord(text, word) {
+  return text.replace(new RegExp('\\b' + word + '\\b', 'i'), '<b>' + word + '</b>');
+}
 
-// Load translations
-let cards = parseTsv(fs.readFileSync(process.argv[2]));
+/**
+ * Run on GET-request.
+ */
+function doGet(req) {
+  var params = req.parameters;
+  var lang = params.lang || 'en';
+  var text = String(params.text) || '';
+  var cards = parseTsv(text);
 
-Promise.all(cards.map((card, index) => {
-    return new Promise((resolve) => {
-        setTimeout(() => {
-            getTranslation(card.word, card.context).then((translation) => {
-                card.translation = translation;
-                resolve();
-            });
-        }, index * 10);
-    });
-})).then(() => {
-    // Print as TSV
-    let lines = cards.map((card) => [ card.stem, card.translation, card.context ].join('\t'));
-    console.log(lines.join('\n'));
-})
+  var html = cards.map(function (card) {
+    return replaceWord(card.context, card.word);
+  }).join('\n\n');
+
+  var result = UrlFetchApp.fetch(YANDEX_API_URL + '&lang=' + lang + '&text=' + encodeURIComponent(html));
+  var json = JSON.parse(result.getContentText());
+  var translation = json.text[0];
+
+  translation.split('\n\n').forEach(function (line, index) {
+      var translatedWord = line.replace(/.*?<b>(.+?)<\/b>.*/, '$1');
+      cards[index].translation = translatedWord;
+  });
+
+  return ContentService.createTextOutput(stringifyTsv(cards));
+}

@@ -1,6 +1,11 @@
 #!/bin/bash
 
-lang=$LANG || 'en'
+IFS=$'\n'
+lang=$TARGET_LANG
+if [ -z $lang ]; then lang='en'; fi
 
-curl -L -G 'https://script.google.com/macros/s/AKfycbwKqmcpvRAzQwu_h2tInmioplP6dbivnGeXgrIdXepJr4Udsk8/exec' \
-     --data-urlencode "text=$(cat "$1")&lang=$lang"
+for line in $(cat "$1"); do
+    curl -s -L -G "https://script.google.com/macros/s/AKfycbwKqmcpvRAzQwu_h2tInmioplP6dbivnGeXgrIdXepJr4Udsk8/exec?lang=$lang" \
+         --data-urlencode "text=$line"
+    echo -e ''
+done
