@@ -13,7 +13,8 @@ for title in $(cat titles.sql | sqlite3 $DB -separator $'\t'); do
 
     # Extract the look-ups
     FILE="$OUT/$title.txt"
-    cat extract.sql | sed "s/#TITLE#/$title/g" | sqlite3 $DB -separator $'\t' > "$FILE"
+    escaped=$(echo "$title" | sed "s/'/\\\'/")
+    cat extract.sql | sed "s/#TITLE#/$escaped/g" | sqlite3 $DB -separator $'\t' > "$FILE"
 
     WORDS_NUM=$(cat $FILE | wc -l)
     if [ $WORDS_NUM == 0 ]; then

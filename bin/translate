@@ -1,0 +1,6 @@
+#!/bin/bash
+
+lang=$LANG || 'en'
+
+curl -L -G 'https://script.google.com/macros/s/AKfycbwKqmcpvRAzQwu_h2tInmioplP6dbivnGeXgrIdXepJr4Udsk8/exec' \
+     --data-urlencode "text=$(cat "$1")&lang=$lang"
