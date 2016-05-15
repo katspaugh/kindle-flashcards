@@ -1,0 +1,28 @@
+#!/bin/bash
+
+minimumsize=100
+wordsfile="$1_words.txt"
+out='output/audio'
+
+mkdir -p "$out"
+
+for i in `cat "$1" | cut -f1`; do
+    word=$(echo "$i" | cut -f2 -d ' ')
+    oggfile="$out/$i.ogg"
+
+    ./bin/wikiogg "$word" > "$oggfile"
+
+    actualsize=$(wc -c < "$oggfile")
+
+    if [ $actualsize -ge $minimumsize ]; then
+        ffmpeg -n -loglevel 0 -i "$oggfile" "$out/$i.mp3"
+        echo "[sound:$i.mp3]" >> "$wordsfile"
+    else
+        echo '' >> "$wordsfile"
+    fi
+
+    rm "$oggfile"
+done
+
+paste "$1" "$wordsfile"
+rm -f "$wordsfile"

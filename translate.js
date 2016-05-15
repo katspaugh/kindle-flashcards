@@ -1,4 +1,8 @@
 /**
+ * This script is supposed to be running on Google Docs
+ */
+
+/**
  * Parse a TSV string into an array.
  *
  * @param {String} tsv
