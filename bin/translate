@@ -1,11 +1,27 @@
 #!/bin/bash
 
 IFS=$'\n'
-lang=$TARGET_LANG
-if [ -z $lang ]; then lang='en'; fi
+default_lang='en'
 
-for line in $(cat "$1"); do
-    curl -s -L -G "https://script.google.com/macros/s/AKfycbwKqmcpvRAzQwu_h2tInmioplP6dbivnGeXgrIdXepJr4Udsk8/exec?lang=$lang" \
-         --data-urlencode "text=$line"
-    echo -e ''
+if [ "$FROM_LANG" ]; then
+    # from-to
+    lang="$FROM_LANG-${TO_LANG-$default_lang}"
+else
+    # to
+    lang="$default_lang"
+fi
+
+echo "$lang"
+
+apikey='trnsl.1.1.20151015T080754Z.fac48f0d13a96c3a.c0c58058288c42ba40de8aec2b36d9d86c3adb1d'
+endpoint="https://translate.yandex.net/api/v1.5/tr.json/translate?key=${apikey}&lang=${lang}"
+translated="$1_translated.txt"
+
+for line in $(cat "$1" | cut -f1); do
+    curl -s -L -G "$endpoint" -X GET --data-urlencode "text=$line" | cut -f10 -d '"' >> "$translated"
 done
+
+paste <(cut -f1 "$1") <(cat "$translated") <(cut -f3 "$1")
+rm -f "$translated"
+
+
