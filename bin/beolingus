@@ -1,0 +1,6 @@
+#!/bin/bash
+
+host='http://dict.tu-chemnitz.de'
+page_url=$(curl -s "${host}/dings.cgi?query=${1}&service=de-en" | egrep -o '/dings\.cgi\?speak=de[^"]+' | head -n1)
+audio_url=$(curl -s "${host}${page_url}" | egrep -o '/speak-de/.+?\.mp3' | head -n1)
+curl -s "${host}${audio_url}"

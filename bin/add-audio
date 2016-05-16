@@ -1,12 +1,13 @@
 #!/bin/bash
 
+IFS=$'\n'
 minimumsize=100
 wordsfile=$(mktemp)
 out='output/audio'
 
 mkdir -p "$out"
 
-for i in $(cat "$1" | cut -f1 -d $'\t'); do
+for i in $(cat "$1" | cut -f1); do
     word=$(echo "$i" | cut -f2 -d ' ')
     oggfile="$(mktemp).ogg"
 
