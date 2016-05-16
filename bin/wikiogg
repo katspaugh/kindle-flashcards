@@ -2,5 +2,5 @@
 
 default_lang='en'
 
-ogg=$(curl -s "https://${lang-$default_lang}.wiktionary.org/wiki/${1}" | egrep -o '//upload.wikimedia.org[^"]+?ogg' | head -n1)
+ogg=$(curl -s "https://${FROM_LANG-$default_lang}.wiktionary.org/wiki/${1}" | egrep -o '//upload.wikimedia.org[^"]+?ogg' | head -n1)
 curl -s "https:$ogg"

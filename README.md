@@ -17,3 +17,6 @@
 
  * Import the flashcards file (File -> Import).
  * Copy the audio files into the Anki media collection directory (typically `~/Documents/Anki/User 1/collection.media`).
+
+## Dependencies
+Audio files are downloaded from Wiktionary and encoded from ogg to mp3. This requires `ffmpeg` (`brew install ffmpeg`).
