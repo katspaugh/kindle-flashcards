@@ -3,7 +3,7 @@
  1. Plug Kindle into the computer.
  2. Open the terminal.
  3. Download this repository and navigate to its folder: `cd ./kindle-flashcards`.
- 4. Execute `./bin/export`. This will create files with words and quotes for each book in `./output`.
+ 4. Execute `./bin/export`. This will create files with words and quotes for each book and save them to `./output`.
  5. To add translations, run `FROM_LANG=de TO_LANG=en ./bin/translate output/Schachnovelle.txt > flashcards.txt`.
  6. To add audio, run `./bin/add-audio flashcards.txt > flashcards_with_audio.txt`. The audio will be saved into `./output/audio`.
  7. ...
