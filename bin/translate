@@ -17,6 +17,6 @@ endpoint="https://translate.yandex.net/api/v1.5/tr.json/translate?key=${apikey}&
 translated=$(curl -s -L -G "$endpoint" -X GET --data-urlencode "text=$(cat "$1" | cut -f1)" | cut -f10 -d '"' | sed 's/\\n/\
 /g' | sed 's/,//g')
 
-paste <(cut -f1 "$1") <(echo "$translated") <(cut -f3 "$1")
+paste <(cat "$1" | ./bin/cloze) <(echo "$translated")
 
 

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+tab=$'\t'
+
+while read line; do
+    word=$(echo "$line" | cut -f2)
+    text=$(echo "$line" | cut -f3)
+    echo "${line}${tab}$(echo "$text" | sed "s/$word/{{c1::&}}/g")"
+done
+
