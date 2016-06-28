@@ -8,6 +8,9 @@
  7. ...
  8. The flashcards are ready!
 
+<img width="683" alt="screen shot 2016-06-28 at 21 43 20" src="https://cloud.githubusercontent.com/assets/381895/16428207/890419ba-3d79-11e6-9d8b-a64f33a1aa84.png">
+<img width="683" alt="screen shot 2016-06-28 at 21 43 23" src="https://cloud.githubusercontent.com/assets/381895/16428984/25afa150-3d7d-11e6-82d2-dced6cf6a322.png">
+
 ## Importing into Anki
  * Create a new deck or use an existing deck.
  * Import the flashcards file (File -> Import).
@@ -26,9 +29,6 @@ The file has five fields:
  5. The translation of the word.
 
 The final result may look like this:
-
-<img width="683" alt="screen shot 2016-06-28 at 21 43 20" src="https://cloud.githubusercontent.com/assets/381895/16428207/890419ba-3d79-11e6-9d8b-a64f33a1aa84.png">
-<img width="683" alt="screen shot 2016-06-28 at 21 43 23" src="https://cloud.githubusercontent.com/assets/381895/16428984/25afa150-3d7d-11e6-82d2-dced6cf6a322.png">
 
 ## Adding audio
 You can also add recordings of words' pronunciations to your cards. Run the following command:
